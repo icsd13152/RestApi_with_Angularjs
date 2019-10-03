@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Panos Petropoulos",
+      "email": "icsd13152@icsd.aegean.gr",
+      "phone": "6984571303"
+    },
+    {
+      "id": 2,
+      "name": "Bill Petropoulos",
+      "email": "icsd13153@icsd.aegean.gr",
+      "phone": "6985856192"
+    },
+    {
+      "name": "Panos",
+      "email": "panos@gmail.com",
+      "phone": "6984571303",
+      "id": 4
+    }
+  ]
+}
